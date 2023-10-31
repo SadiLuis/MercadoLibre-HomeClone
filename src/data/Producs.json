@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Calabaza de Halloween",
+      "description": "Una calabaza tallada a mano con un diseño de Halloween espeluznante.",
+      "price": 5.99,
+      "stock": 100,
+      "image": "../../public/calabaza.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Camara Fujima",
+      "description": "Un disfraz de fantasma clásico, perfecto para asustar a tus amigos en Halloween.",
+      "price": 25.99,
+      "stock": 50,
+      "image": "../../public/camara.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Encendedor FotuRed",
+      "description": "Un disfraz de fantasma clásico, perfecto para asustar a tus amigos en Halloween.",
+      "price": 9.99,
+      "stock": 50,
+      "image": "../../public/encendedor.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Joystick PS4 Blue",
+      "description": "Un disfraz de fantasma clásico, perfecto para asustar a tus amigos en Halloween.",
+      "price": 29.99,
+      "stock": 40,
+      "image": "../../public/joystick.jpg"
+    },
+    {
+      "id": 5,
+      "title": "PremiumShoez Orange",
+      "description": "Un disfraz de fantasma clásico, perfecto para asustar a tus amigos en Halloween.",
+      "price": 25.99,
+      "stock": 30,
+      "image": "../../public/shoesorange.jpg"
+    }
+    
+  ]
